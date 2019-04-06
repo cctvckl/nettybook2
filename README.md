@@ -10,3 +10,4 @@
 有关该书的更多信息可以关注李林峰老师的微博 @Nettying 以及查看其在ifeve网站上的文章：http://ifeve.com/author/linfeng/
 
 
+先在5.0版本上学习，后续改成当前的4.x版本
